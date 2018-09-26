@@ -41,7 +41,7 @@ end
 
 # Question 9 - Add_s
 def add_s(array)
-  
+  array.each_with_index.collect{|
 end
 
 
